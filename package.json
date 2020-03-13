@@ -1,0 +1,24 @@
+{
+    "name": "malta-browserify",
+    "version": "0.0.1",
+    "description": "Malta plugin to browserify a script",
+    "repository": {
+        "type": "git",
+        "url": "https://fedeghe@github.com/fedeghe/malta-browserify.git"
+    },
+    "keywords": [
+        "malta",
+        "malta plugin",
+        "malta browserify",
+        "malta browserify plugin"
+    ],
+    "dependencies": {
+        "malta": "^4.1.3"
+    },
+    "author": "Federico Ghedina <fedeghe@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/fedeghe/malta-browserify/issues"
+    },
+    "main": "./index.js"
+}
