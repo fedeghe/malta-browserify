@@ -1,6 +1,6 @@
 {
     "name": "malta-browserify",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Malta plugin to browserify a script",
     "repository": {
         "type": "git",
